@@ -1,4 +1,4 @@
-package com.restAssured.SampleCheck.PayloadMangement.GSON;
+package com.APIAutomationClass.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

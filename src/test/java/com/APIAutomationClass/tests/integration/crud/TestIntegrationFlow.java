@@ -1,10 +1,10 @@
-package com.APIAutomationClass.tests.integration.sample;
+package com.APIAutomationClass.tests.integration.crud;
 
 import io.qameta.allure.Description;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestIntegrationSample {
+public class TestIntegrationFlow {
 
     // Create Booking
     // Get Booking
